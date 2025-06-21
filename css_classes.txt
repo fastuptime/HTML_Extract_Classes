@@ -1,0 +1,228 @@
+HTML Dosyasındaki Tüm CSS Class Adları
+==================================================
+
+  1. active
+  2. colorred
+  3. deleteIcon_container
+  4. fa-brands
+  5. fa-chevron-down
+  6. fa-chevron-left
+  7. fa-chevron-right
+  8. fa-facebook-f
+  9. fa-instagram
+ 10. fa-star
+ 11. fa-times
+ 12. fa-x-twitter
+ 13. fab
+ 14. fas
+ 15. floating-text-container
+ 16. floating-text-content
+ 17. footer
+ 18. footer_content
+ 19. footer_content__ceo_content
+ 20. footer_content__ceo_content__standart
+ 21. footer_content__ceo_content__standart_content
+ 22. footer_content__ceo_content__standart_content__button
+ 23. footer_content__ceo_content__standart_content__long
+ 24. footer_content__ceo_content__standart_content__short
+ 25. footer_content__normal
+ 26. footer_content__normal__etbis
+ 27. footer_content__normal__etbis_container
+ 28. footer_content__normal__etbis_container_etbis
+ 29. footer_content__normal__etbis_container_text
+ 30. footer_content__normal__info
+ 31. footer_content__normal__info_container
+ 32. footer_content__normal__info_container_list
+ 33. footer_content__normal__info_container_list_item
+ 34. footer_content__normal__info_container_list_item__icon
+ 35. footer_content__normal__info_container_list_item__icon_container
+ 36. footer_content__normal__info_container_list_item__text
+ 37. footer_content__normal__menu
+ 38. footer_content__normal__menu_container
+ 39. footer_content__normal__menu_container_contact
+ 40. footer_content__normal__menu_container_contact_live_chat
+ 41. footer_content__normal__menu_container_contact_live_chat_button
+ 42. footer_content__normal__menu_container_contact_phone
+ 43. footer_content__normal__menu_container_contact_phone_number
+ 44. footer_content__normal__menu_container_contact_phone_title
+ 45. footer_content__normal__menu_container_contact_title
+ 46. footer_content__normal__menu_container_contact_veya_text
+ 47. footer_content__normal__menu_container_contact_veya_text_line
+ 48. footer_content__normal__menu_container_contact_veya_text_text
+ 49. footer_content__normal__menu_container_contact_whatsapp
+ 50. footer_content__normal__menu_container_contact_whatsapp_button
+ 51. footer_content__normal__menu_container_contact_whatsapp_title
+ 52. footer_content__normal__menu_container_list
+ 53. footer_content__normal__menu_container_list_item
+ 54. footer_content__normal__menu_container_list_item__list
+ 55. footer_content__normal__menu_container_list_item__list_item
+ 56. footer_content__normal__menu_container_list_item__title
+ 57. footer_content__normal__menu_container_social
+ 58. footer_content__normal__menu_container_social_and_contact
+ 59. footer_content__normal__menu_container_social_icons
+ 60. footer_content__normal__menu_container_social_icons_item
+ 61. footer_content__normal__menu_container_social_title
+ 62. footer_content__normal__payment
+ 63. footer_content__normal__payment_container
+ 64. footer_content__normal__payment_container_icons
+ 65. footer_content__normal__payment_container_icons_item
+ 66. header
+ 67. header__category
+ 68. header__category__item
+ 69. header__category_header
+ 70. homePage_billBoard
+ 71. homePage_billBoard_close
+ 72. homePage_billBoard_container
+ 73. homePage_billBoard_content
+ 74. homePage_billBoard_content_image
+ 75. homePage_billBoard_content_image_img
+ 76. homePage_discountProduct
+ 77. homePage_discountProduct_close
+ 78. homePage_discountProduct_container
+ 79. homePage_discountProduct_content
+ 80. homePage_discountProduct_content_image
+ 81. homePage_discountProduct_content_image_img
+ 82. homePage_discountProduct_content_text
+ 83. homePage_discountProduct_content_text_price
+ 84. homePage_discountProduct_content_text_price_current
+ 85. homePage_discountProduct_content_text_price_inbasket_text
+ 86. homePage_discountProduct_content_text_tag
+ 87. homePage_discountProduct_content_text_title
+ 88. icon
+ 89. icon-tabler
+ 90. icon-tabler-brand-whatsapp
+ 91. icon-tabler-buildings
+ 92. icon-tabler-category
+ 93. icon-tabler-chevron-up
+ 94. icon-tabler-credit-card
+ 95. icon-tabler-exclamation-circle
+ 96. icon-tabler-flag-star
+ 97. icon-tabler-home
+ 98. icon-tabler-lock
+ 99. icon-tabler-map-pin
+100. icon-tabler-menu-2
+101. icon-tabler-phone
+102. icon-tabler-receipt-refund
+103. icon-tabler-search
+104. icon-tabler-shopping-cart
+105. icon-tabler-star
+106. icon-tabler-tag-starred
+107. icon-tabler-trash
+108. icon-tabler-truck-delivery
+109. icon-tabler-user-scan
+110. icon-tabler-users
+111. icon-tabler-x
+112. icons-tabler-outline
+113. loader
+114. loader__icon
+115. mini
+116. mobileContainer
+117. mobile_menu
+118. mobile_menu__controller
+119. mobile_menu__list
+120. mobile_menu__list_category_list
+121. mobile_menu__list_category_list_item
+122. mobile_menu__list_category_list_item_divider
+123. mobile_menu__list_item
+124. mobile_menu__list_item_icon
+125. mobile_menu__list_item_text
+126. mobile_menu__list_title_item
+127. navbar
+128. navbar__Menus
+129. navbar__accountContainer
+130. navbar__accountLogo
+131. navbar__accountLogo_logoContainer
+132. navbar__account_texts
+133. navbar__account_texts_content
+134. navbar__account_texts_header
+135. navbar__cartContainer
+136. navbar__cartLogo
+137. navbar__classic_menu
+138. navbar__classic_menu__account_item
+139. navbar__classic_menu__account_item_logo
+140. navbar__classic_menu__account_item_texts
+141. navbar__classic_menu__account_item_texts_content
+142. navbar__classic_menu__account_item_texts_header
+143. navbar__classic_menu__content
+144. navbar__classic_menu__list
+145. navbar__classic_menu__list_divider
+146. navbar__classic_menu__locationContainer
+147. navbar__classic_menu__locationContainer_button
+148. navbar__classic_menu__locationContainer_button_container
+149. navbar__classic_menu__locationContainer_texts
+150. navbar__classic_menu__locationContainer_texts_content
+151. navbar__classic_menu__locationContainer_texts_title
+152. navbar__container
+153. navbar__dealerContainer
+154. navbar__dealerLogo
+155. navbar__dealer_texts
+156. navbar__dealer_texts_content
+157. navbar__dealer_texts_header
+158. navbar__location
+159. navbar__locationContainer
+160. navbar__locationContainer_texts
+161. navbar__locationContainer_texts_content
+162. navbar__locationContainer_texts_header
+163. navbar__location_texts
+164. navbar__location_texts_content
+165. navbar__location_texts_header
+166. navbar__logo
+167. navbar__menuIcon
+168. navbar__searchBox
+169. navbar__searchBoxMenu
+170. navbar__searchBox_wrapper
+171. next
+172. orange
+173. page__bannerContainer
+174. page__bannerContainerBoxs
+175. page__bannerContainerBoxs_button
+176. page__bannerContainer_box
+177. page__bannerContainer_box_countContainer
+178. page__bannerContainer_box_img
+179. page__classic_bannerContainer
+180. page__classic_bannerContainer_boxs
+181. page__classic_bannerContainer_boxs_button
+182. page__classic_bannerContainer_boxs_countContainer
+183. page__classic_bannerContainer_boxs_slider
+184. page__classic_bannerContainer_boxs_slider_box
+185. page__classic_bannerContainer_boxs_slider_box_img
+186. page__content
+187. page__menus
+188. prev
+189. product_slider__content
+190. product_slider__content_button
+191. product_slider__content_button_next
+192. product_slider__content_button_prev
+193. product_slider__content_list
+194. product_slider__content_list_item
+195. product_slider__content_list_item_details
+196. product_slider__content_list_item_details_price_detail
+197. product_slider__content_list_item_details_price_detail_price
+198. product_slider__content_list_item_details_price_detail_price_current
+199. product_slider__content_list_item_details_price_detail_price_inbasket_text
+200. product_slider__content_list_item_details_price_detail_price_old
+201. product_slider__content_list_item_details_price_detail_price_tags
+202. product_slider__content_list_item_details_price_detail_price_tags_item
+203. product_slider__content_list_item_details_stars
+204. product_slider__content_list_item_details_stars_comment_count
+205. product_slider__content_list_item_details_stars_star
+206. product_slider__content_list_item_details_text
+207. product_slider__content_list_item_details_text_title
+208. product_slider__content_list_item_image
+209. product_slider__content_list_item_image_img
+210. product_slider__header
+211. product_slider__header_title
+212. product_slider__header_wrapper
+213. scrollTopBtn
+214. searchBoxMenu__content
+215. searchBoxMenu__content_header
+216. searchBoxMenu__content_header_clear
+217. searchBoxMenu__content_history
+218. searchBoxMenu__content_popular
+219. searchIcon_container
+220. slider
+221. slider-button
+222. standart__product_slider
+223. whatsappBtn
+
+Toplam: 223 farklı class bulundu.
